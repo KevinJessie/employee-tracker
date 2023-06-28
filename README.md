@@ -26,4 +26,5 @@ npm start
 This project is licensed under the MIT license.
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at <a href="mailto:undefined">undefined</a>. You can find more of my work at [undefined]
+If you have any questions about the repo, open an issue or contact me directly at <a href="kevinjessie32@yahoo.com">undefined</a>. You can find more of my work at
+github: KevinJessie!
